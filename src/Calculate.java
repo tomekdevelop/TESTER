@@ -7,6 +7,7 @@ public class Calculate {
     }
 
     public double multiplication(int a, int b){
+        System.out.println();
         return a*b;
     }
 }
