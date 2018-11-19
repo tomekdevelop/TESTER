@@ -10,3 +10,4 @@ public class Calculate {
         return a*b;
     }
 }
+    
